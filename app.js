@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
     <body>
       <div class="container">
         <h1 class="title">Herzlich Willkommen zur Wohnungsbesichtigung!</h1>
-        <p class="message">De Nathan wird bei der Wohnungsbesichtigung den Vermieter beeindrucken!</p>
+        <p class="message">Nathan wird bei der Wohnungsbesichtigung den Vermieter beeindrucken!</p>
         <p class="message">Vielen Dank, dass Sie unsere Website besuchen.</p>
       </div>
     </body>
